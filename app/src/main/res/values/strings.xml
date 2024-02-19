@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">local</string>
+    <string name="welcome">welcome!</string>
+    <string name="select">choose a language</string>
+
+    <string name="language">Language</string>
+    <string name="Russian">Russian</string>
+    <string name="English">English</string>
+    <string name="Spanish">Spanish</string>
+
+    <string name="Breakfast">Breakfast</string>
+    <string name="Lunch">Lunch</string>
+    <string name="Supper">Supper</string>
+
+    <string name="Pancakes">Pancakes</string>
+    <string name="Pea_soup">Pea soup</string>
+    <string name="Chicken">Chicken with fried potatoes</string>
+
+    <string name="Ingredients">Ingredients:</string>
+
+    <string name="Kefir">Kefir - 1 cup (250 ml)</string>
+    <string name="Eggs">Eggs - 1-2 pcs.</string>
+    <string name="Flour">Wheat flour - 1.5 cups (about 240 g)</string>
+    <string name="Sugar">Sugar - 2-3 tablespoons</string>
+    <string name="Salt">Salt - 0.5 teaspoons</string>
+    <string name="Soda">Soda - 0.25 teaspoons</string>
+    <string name="Oil">Vegetable oil - for frying</string>
+
+    <string name="Stages">Stages:</string>
+
+    <string name="Stages_Breakfast1">1) Mix kefir, eggs, sugar, salt and soda. Add the flour in parts, beating with a whisk. The dough should be thick. </string>
+    <string name="Stages_Breakfast2">2) Preheat a frying pan and pour vegetable oil. Spread the dough with a tablespoon. Fry the pancakes on medium heat first on one side until browned, about 2 minutes.</string>
+
+    <string name="Peas">Dried crushed peas - 2 cups</string>
+    <string name="Beef">Beef with a bone - 1 kg.</string>
+    <string name="Carrot">Carrots - 2 pcs.</string>
+    <string name="Onion">Onion - 2 pcs.</string>
+    <string name="Salt2">Salt - 1 tablespoon</string>
+    <string name="Water">Water - 3 liters</string>
+
+    <string name="Stages_Lunch1">1) Rinse the peas and soak them in cold water for 1.5-2 hours. Then pour the peas with fresh water, bring to a boil and cook over low heat for about an hour, under a lid. </string>
+    <string name="Stages_Lunch2">2) Peel the onions and carrots. Cut the onion into cubes. Grate the carrots on a coarse grater. </string>
+    <string name="Stages_Lunch3">3) Add the boned beef pieces, carrots and onions to the pan with the peas. Add salt, pepper and cook the pea soup for 1.5-2 hours (until the beef is soft). </string>
+
+    <string name="Potato">Potatoes - 300 grams (4 pcs.)</string>
+    <string name="Fillet">Chicken fillet - 300 grams</string>
+    <string name="Onion3">Onion - 100 grams (1 pc.)</string>
+    <string name="Salt3">Salt - 0.75 teaspoons (to taste)</string>
+    <string name="Pepper">Ground black pepper - 0.25 teaspoons (to taste)</string>
+
+    <string name="Stages_Supper1">1) Peel and rinse the onions and potatoes. Rinse the chicken fillet, dry it and cut into small pieces. </string>
+    <string name="Stages_Supper2">2) Heat the pan, grease with vegetable oil, put the chicken fillet and fry it for 7-8 minutes on high heat, stirring. </string>
+    <string name="Stages_Supper3">3) Cut the potatoes into small plates and add to the chicken. Cook everything, stirring, over medium heat for 10-12 minutes. Cut the onion into cubes. </string>
+    <string name="Stages_Supper4">4) Then add the onion to the pan, make the fire smaller. Cook the contents of the pan, stirring occasionally, for 10 minutes, until the potatoes are ready. Add salt and pepper to taste. </string>
+
+
+</resources>

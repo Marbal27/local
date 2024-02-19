@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">локализация</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="select">Выбрать язык</string>
+
+    <string name="language">Язык</string>
+    <string name="Russian">Русский</string>
+    <string name="English">Английский</string>
+    <string name="Spanish">Испанский</string>
+
+    <string name="Breakfast">Завтрак</string>
+    <string name="Lunch">Обед</string>
+    <string name="Supper">Ужин</string>
+
+    <string name="Pancakes">Оладьи</string>
+    <string name="Pea_soup">Гороховый суп</string>
+    <string name="Chicken">Курица с жареной картошкой</string>
+
+    <string name="Ingredients">Ингредиенты:</string>
+
+    <string name="Kefir">Кефир - 1 стакан (250 мл)</string>
+    <string name="Eggs">Яйца - 1-2 шт.</string>
+    <string name="Flour">Мука пшеничная - 1,5 стакана (около 240 г)</string>
+    <string name="Sugar">Сахар - 2-3 ст. ложки</string>
+    <string name="Salt">Соль - 0,5 ч. ложки</string>
+    <string name="Soda">Сода - 0,25 ч. ложки</string>
+    <string name="Oil">Масло растительное - для жарки</string>
+
+    <string name="Stages">Этапы:</string>
+
+    <string name="Stages_Breakfast1">1) Смешайте кефир, яйца, сахар, соль и соду. Добавьте муку частями, взбивая венчиком. Тесто должно получиться густым. </string>
+    <string name="Stages_Breakfast2">2) Разогреть сковороду и налить растительное масло. Столовой ложкой выкладывать тесто. Жарить оладьи на среднем огне сперва с одной стороны до румяности, около 2 минут.</string>
+
+    <string name="Peas">Горох сушеный дробленый - 2 стакана</string>
+    <string name="Beef">Говядина с косточкой - 1 кг.</string>
+    <string name="Carrot">Морковь - 2 шт.</string>
+    <string name="Onion">Лук репчатый - 2 шт.</string>
+    <string name="Salt2">Соль - 1 ст. ложки</string>
+    <string name="Water">Вода - 3 л.</string>
+
+    <string name="Stages_Lunch1">1) Горох промойте и замочите в холодной воде на 1,5-2 часа. Затем залейте горох свежей водой, доведите до кипения и варите на слабом огне около часа, под крышкой. </string>
+    <string name="Stages_Lunch2">2) Почистите лук и морковь. Лук нарежьте кубиками. Морковь натрите на крупной терке.</string>
+    <string name="Stages_Lunch3">3) Добавьте в кастрюлю с горохом куски говядины на косточке, морковь и лук. Посолите, поперчите и варите гороховый суп 1,5-2 часа (до мягкости говядины). </string>
+
+    <string name="Potato">Картофель - 300 г (4 шт.)</string>
+    <string name="Fillet">Куриное филе - 300 грамм</string>
+    <string name="Onion3">Лук репчатый - 100 г (1 шт.)</string>
+    <string name="Salt3">Соль - 0,75 ч. ложки (по вкусу)</string>
+    <string name="Pepper">Перец чёрный молотый - 0,25 ч. ложки (по вкусу)</string>
+
+    <string name="Stages_Supper1">1) Репчатый лук и картофель очистить и промыть. Куриное филе промыть, обсушить и нарезать небольшими по размеру кусочками. </string>
+    <string name="Stages_Supper2">2) Сковороду разогреть, смазать растительным маслом, выложить куриное филе и обжарить его 7-8 минут на сильном огне, помешивая. </string>
+    <string name="Stages_Supper3">3) Картофель нарезать небольшими пластинами и добавить к курице. Готовить всё, помешивая, на среднем огне 10-12 минут. Нарезать лук кубиками.  </string>
+    <string name="Stages_Supper4">4) Затем добавить в сковороду лук, огонь сделать меньше. Готовить содержимое сковороды, иногда помешивая, 10 минут, до готовности картофеля. Посолить и поперчить по вкусу. </string>
+
+
+</resources>

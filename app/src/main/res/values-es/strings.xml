@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">local</string>
+    <string name="welcome">Bienvenido!</string>
+    <string name="select">Seleccionar idioma</string>
+
+    <string name="language">Idioma</string>
+    <string name="Russian">Rusa</string>
+    <string name="English">Inglés</string>
+    <string name="Spanish">Español</string>
+
+    <string name="Breakfast">Desayuno</string>
+    <string name="Lunch">Almuerzo</string>
+    <string name="Supper">Cena</string>
+
+    <string name="Pancakes">Buñuelos</string>
+    <string name="Pea_soup">Sopa de guisantes</string>
+    <string name="Chicken">Pollo con papas fritas</string>
+
+    <string name="Ingredients">Ingredientes:</string>
+
+    <string name="Kefir">Kéfir-1 vaso (250 ml)</string>
+    <string name="Eggs">Huevos - 1-2 PCs.</string>
+    <string name="Flour">Harina de trigo-1,5 taza (aproximadamente 240 G)</string>
+    <string name="Sugar">Azúcar - 2-3 cucharadas.</string>
+    <string name="Salt">Sal - 0,5 cucharaditas</string>
+    <string name="Soda">Soda - 0,25 cucharaditas</string>
+    <string name="Oil">Aceite vegetal-para freír</string>
+
+    <string name="Stages">Etapas:</string>
+
+    <string name="Stages_Breakfast1">1) Mezcle el kéfir, los huevos, el azúcar, la sal y la soda. Agregue la harina en trozos, batiendo con un batidor. La masa debe ser espesa. </string>
+    <string name="Stages_Breakfast2">2) Calentar la sartén y verter el aceite vegetal. Cuchara para extender la masa. Freír los buñuelos a fuego medio primero por un lado hasta que estén dorados, aproximadamente 2 minutos.</string>
+
+    <string name="Peas">Guisantes secos triturados - 2 tazas</string>
+    <string name="Beef">Carne de res con hueso - 1 kg.</string>
+    <string name="Carrot">Zanahorias - 2 piezas.</string>
+    <string name="Onion">Cebolla - 2 piezas.</string>
+    <string name="Salt2">Sal - 1 cucharada</string>
+    <string name="Water">Agua - 3 litros</string>
+
+    <string name="Stages_Lunch1">1) Enjuague los guisantes y sumérjalos en agua fría durante 1,5-2 horas. Luego vierta los guisantes con agua fresca, hierva y cocine a fuego lento durante aproximadamente una hora, tapado. </string>
+    <string name="Stages_Lunch2">2) Cepille las cebollas y las zanahorias. Cortar la cebolla en cubos. Rallar las zanahorias en un rallador grueso. </string>
+    <string name="Stages_Lunch3">3) Agregue trozos de carne de res deshuesada, zanahorias y cebollas a la sartén con los guisantes. Sal, pimienta y cocine la sopa de guisantes durante 1,5-2 horas (hasta que la carne esté suave).</string>
+
+    <string name="Potato">Patatas - 300 gramos (4 piezas)</string>
+    <string name="Fillet">Filete de pollo - 300 gramos</string>
+    <string name="Onion3">Cebolla - 100 gramos (1 unidad)</string>
+    <string name="Salt3">Sal - 0,75 cucharadita (al gusto)</string>
+    <string name="Pepper">Pimienta negra molida - 0,25 cucharadita (al gusto)</string>
+
+    <string name="Stages_Supper1">1) Pele las cebollas y las papas y enjuague. Enjuague los filetes de pollo, séquelos y córtelos en trozos pequeños. </string>
+    <string name="Stages_Supper2">2) Caliente la sartén, engrase con aceite vegetal, coloque los filetes de pollo y fríalos durante 7-8 minutos a fuego alto, revolviendo. </string>
+    <string name="Stages_Supper3">3) Cortar las papas en platos pequeños y agregar al pollo. Cocine todo, revolviendo, a fuego medio durante 10-12 minutos. Cortar la cebolla en cubos. </string>
+    <string name="Stages_Supper4">4) Luego agregue la cebolla a la sartén, haga menos fuego. Cocine el contenido de la sartén, revolviendo ocasionalmente, 10 minutos, hasta que las papas estén tiernas. Sal y pimienta al gusto. </string>
+
+
+</resources>
