@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     tools:context=".LunchActivity">
 
     <TextView
@@ -13,6 +14,7 @@
         android:layout_marginStart="173dp"
         android:layout_marginTop="32dp"
         android:text="@string/Pea_soup"
+        android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -24,13 +26,14 @@
         android:layout_marginStart="47dp"
         android:layout_marginTop="76dp"
         android:text="@string/Ingredients"
+        android:textColor="@color/black"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <LinearLayout
         android:id="@+id/linearLayout4"
-        android:layout_width="361dp"
-        android:layout_height="136dp"
+        android:layout_width="357dp"
+        android:layout_height="128dp"
         android:layout_marginStart="25dp"
         android:layout_marginTop="13dp"
         android:layout_marginBottom="15dp"
@@ -43,37 +46,43 @@
             android:id="@+id/textView19"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Peas" />
+            android:text="@string/Peas"
+            android:textColor="@color/black" />
 
         <TextView
             android:id="@+id/textView20"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Beef" />
+            android:text="@string/Beef"
+            android:textColor="@color/black" />
 
         <TextView
             android:id="@+id/textView21"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Carrot" />
+            android:text="@string/Carrot"
+            android:textColor="@color/black" />
 
         <TextView
             android:id="@+id/textView22"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Onion" />
+            android:text="@string/Onion"
+            android:textColor="@color/black" />
 
         <TextView
             android:id="@+id/textView23"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Salt2" />
+            android:text="@string/Salt2"
+            android:textColor="@color/black" />
 
         <TextView
             android:id="@+id/textView24"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Water" />
+            android:text="@string/Water"
+            android:textColor="@color/black" />
     </LinearLayout>
 
     <TextView
@@ -81,9 +90,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="52dp"
-        android:layout_marginTop="13dp"
+        android:layout_marginTop="2dp"
         android:layout_marginBottom="21dp"
         android:text="@string/Stages"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout7"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout4" />
@@ -91,30 +101,35 @@
     <LinearLayout
         android:id="@+id/linearLayout7"
         android:layout_width="358dp"
-        android:layout_height="193dp"
-        android:layout_marginStart="28dp"
+        android:layout_height="177dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="5dp"
         android:layout_marginBottom="9dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toTopOf="@+id/imageView2"
-        app:layout_constraintStart_toStartOf="parent">
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView26">
 
         <TextView
             android:id="@+id/textView28"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Stages_Lunch1" />
+            android:text="@string/Stages_Lunch1"
+            android:textColor="@color/black" />
 
         <TextView
             android:id="@+id/textView29"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Stages_Lunch2" />
+            android:text="@string/Stages_Lunch2"
+            android:textColor="@color/black" />
 
         <TextView
             android:id="@+id/textView30"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/Stages_Lunch3" />
+            android:text="@string/Stages_Lunch3"
+            android:textColor="@color/black" />
     </LinearLayout>
 
     <ImageView
@@ -126,4 +141,38 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout7"
         app:srcCompat="@drawable/sup" />
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="18dp"
+        android:text="@string/beef"
+        android:textColor="@color/black"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="139dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="29dp"
+        android:text="Start"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="7dp"
+        android:text="02:00:00"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView44" />
 </androidx.constraintlayout.widget.ConstraintLayout>

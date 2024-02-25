@@ -53,5 +53,8 @@
     <string name="Stages_Supper3">3) Cut the potatoes into small plates and add to the chicken. Cook everything, stirring, over medium heat for 10-12 minutes. Cut the onion into cubes. </string>
     <string name="Stages_Supper4">4) Then add the onion to the pan, make the fire smaller. Cook the contents of the pan, stirring occasionally, for 10 minutes, until the potatoes are ready. Add salt and pepper to taste. </string>
 
+    <string name="pancake">The timer for frying pancakes</string>
+    <string name="beef">Cook until the beef is soft</string>
+    <string name="fillets">Fillet roasting timer</string>
 
 </resources>

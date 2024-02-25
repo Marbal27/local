@@ -54,5 +54,8 @@
     <string name="Stages_Supper3">3) Cortar las papas en platos pequeños y agregar al pollo. Cocine todo, revolviendo, a fuego medio durante 10-12 minutos. Cortar la cebolla en cubos. </string>
     <string name="Stages_Supper4">4) Luego agregue la cebolla a la sartén, haga menos fuego. Cocine el contenido de la sartén, revolviendo ocasionalmente, 10 minutos, hasta que las papas estén tiernas. Sal y pimienta al gusto. </string>
 
+    <string name="pancake">Temporizador de fritura de buñuelos</string>
+    <string name="beef">Cocine hasta que la carne esté tierna</string>
+    <string name="fillets">Asar los filetes</string>
 
 </resources>
